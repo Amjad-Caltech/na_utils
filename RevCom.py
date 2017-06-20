@@ -18,4 +18,4 @@ def complment(base):
     elif base in 'Gg':
         return 'C'
     else:
-        return '((Error! Wrong base.))'
+        return '((Error! Wrong base))'
